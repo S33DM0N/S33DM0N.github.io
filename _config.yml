@@ -1,13 +1,13 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              S33DM0N
+bio:                'When can S33DM0N evolve into Palmon..?'
+description:        "Hacking Team S33DM0N"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
-locale:             en_US
+locale:             ko_KR
 url:                https://S33DM0N.github.io
 
 # Jekyll
